@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/stocktwits-search/static/js/main.6c58116d.chunk.js",
+    "main.js.map": "/stocktwits-search/static/js/main.6c58116d.chunk.js.map",
+    "runtime-main.js": "/stocktwits-search/static/js/runtime-main.fe69337c.js",
+    "runtime-main.js.map": "/stocktwits-search/static/js/runtime-main.fe69337c.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/stocktwits-search/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.b2249d5b.chunk.js": "/stocktwits-search/static/js/2.b2249d5b.chunk.js",
+    "static/js/2.b2249d5b.chunk.js.map": "/stocktwits-search/static/js/2.b2249d5b.chunk.js.map",
+    "index.html": "/stocktwits-search/index.html",
+    "precache-manifest.7fc89b748ffe8865a3fc4f47483b4ca2.js": "/stocktwits-search/precache-manifest.7fc89b748ffe8865a3fc4f47483b4ca2.js",
+    "service-worker.js": "/stocktwits-search/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/stocktwits-search/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.b2249d5b.chunk.js.LICENSE": "/stocktwits-search/static/js/2.b2249d5b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe69337c.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.b2249d5b.chunk.js",
+    "static/js/main.6c58116d.chunk.js"
+  ]
+}
