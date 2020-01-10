@@ -61,7 +61,7 @@ class SearchForm extends React.Component {
     });
     if (stockSymbols) {
       stockSymbols.forEach((symbol) => {
-        fetch(`http://localhost:8000/${symbol}`, {
+        fetch(`https://stocktwits-server.herokuapp.com/${symbol}`, {
           method: 'GET',
         })
           .then((res) => {
