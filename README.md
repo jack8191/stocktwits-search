@@ -1,5 +1,7 @@
 # stocktwits-search
 
+live at https://jack8191.github.io/stocktwits-search/
+
 This application searches the Stocktwits api for a list of stock symbols and renders the most recent 30 for each symbol.
 The search reruns every 10 seconds as long as there is a valid query.
 
